@@ -6,11 +6,7 @@ cnts = Array.new(10){0}
 
 p rnd
 rnd.each do |i|
-    10.times do |n|
-        if (n+1) == i
-            cnts[n] += 1
-        end
-    end
+    cnts[i-1] += 1
 end
 
 10.times do |i|
