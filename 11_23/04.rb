@@ -1,8 +1,4 @@
 counts = {
-    "to" => 0,
-    "japan" => 0,
-    "have" => 0,
-    "a" => 0
 }
 
 lines = Array.new
@@ -16,10 +12,17 @@ while line = gets
         cnt = counts[w]
         if cnt
             counts[w] += 1
+        else 
+            counts[w] = 1
         end
     end
 end
 
+words = Array.new(0)
 counts.each do |key, val|
-    puts "#{key}: #{val}回"
+    words.push "#{key}: #{val}回"
+end
+words = words.sort
+words.each do |i|
+    puts i
 end
