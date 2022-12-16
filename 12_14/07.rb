@@ -1,0 +1,1 @@
+dir = ARGV[0].to_s
