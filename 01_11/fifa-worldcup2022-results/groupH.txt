@@ -1,0 +1,8 @@
+2022 FIFA World Cup Stage1 Result
+
+Group H
+            Portugal South_Korea Uruguay Ghana
+Portugal    -        1-2         2-0     3-2
+South_Korea 2-1      -           0-0     2-3
+Uruguay     0-2      0-0         -       2-0
+Ghana       2-3      3-2         0-2     -

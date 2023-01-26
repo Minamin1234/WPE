@@ -1,0 +1,8 @@
+2022 FIFA World Cup Stage1 Result
+
+Group E
+            Japan Spain Germany Costa_Rica
+Japan       -     2-1   2-1     0-1
+Spain       1-2   -     1-1     7-0
+Germany     1-2   1-1   -       4-2
+Costa_Rica  1-0   0-7   2-4     -
